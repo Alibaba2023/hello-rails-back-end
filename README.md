@@ -39,7 +39,7 @@
 
 ## 🔗 Integration with Hello Rails Front-End <a name="integration-with-hello-rails-front-end"></a>
 
-The front-end link [Hello Rails Front-End](https://github.com/hafiz1379/hello-react-front-end) project.
+The front-end link [Hello Rails Front-End](https://github.com/Alibaba2023/hello-react-front-end) project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
