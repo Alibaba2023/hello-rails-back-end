@@ -119,7 +119,7 @@ The API will be accessible at `http://localhost:3000/api/v2/greetings/random`.
 ## 👥 Author <a name="authors"></a>
 
 👤 **Ali Baba Hussaini**
-- GitHub: [Ali Baba Hussaini](https://https://github.com/Alibaba2023)
+- GitHub: [Ali Baba Hussaini](https://github.com/Alibaba2023)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
